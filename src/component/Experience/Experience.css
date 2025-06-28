@@ -1,0 +1,85 @@
+.Experience-main{
+width: 1440px;
+height: 624px;
+padding: 64px 100px 64px 100px;
+background-color: #010208;
+}
+.Experience-inner{
+    width: 1240px;
+height: 496px;
+display: grid;
+gap: 32px;
+}
+.Experience-heading{
+    
+    width: 1240px;
+height: 48px;
+gap: 8px;
+}
+.Experience-data{
+    display: grid;
+    width: 1240px;
+height: 416px;
+gap: 32px;
+}
+.Experience-data-head{
+    width: 250px;
+height: 48px;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Experience-item{
+    border-bottom: 1.5px solid #FFFFFF;
+    width: 1240px;
+height: 80px;
+/* border-bottom:1.5px ; */
+/* border-color: #FFFFFF; */
+padding-top: 8px;
+padding-bottom: 8px;
+display: flex;
+justify-content: space-between;
+}
+.Experience-item-heading{
+   
+    width: 604px;
+height: 40px;
+gap: 16px;
+}
+.Experience-heading{
+    width: 347px;
+height: 40px;
+font-weight: 500;
+font-size: 32px;
+line-height: 40px;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Experience-item-para{
+    display: grid;
+    width: 636px;
+height: 64px;
+gap: 8px;
+}
+.Experience-contant1{
+    width: 636px;
+height: 32px;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: right;
+color: #FFFFFF;
+}
+.Experience-contant2{
+    width: 636px;
+height: 24px;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: right;
+color:#FFFFFF ;
+}

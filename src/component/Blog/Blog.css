@@ -1,0 +1,137 @@
+.Blog-main{
+    width: 1440px;
+    height: 915.5px;
+    padding: 64px 100px 64px 100px;
+    background-color: #010208 ;
+}
+.Blog-inner{
+    width: 1240px;
+    height:787.5px;
+gap: 32px;   
+display: flex; 
+flex-flow: column;
+
+align-content:space-between;
+
+
+}
+
+.Blog-head{
+    width: 1240px;
+    height:48px;
+display: flex;
+justify-content: space-between;   
+}
+.Blog-Box{
+    width: 138px;
+    height:48px;
+gap: 8px;  
+
+}
+.Blog-heading{
+    width: 98px;
+    height:48px;
+    font-weight: 700px;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.Blog-view{
+    width: 63px;
+    height:22px;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+     text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-underline-offset: 0px;
+  text-decoration-thickness: 1px;
+    color: #FFFFFF;
+}
+.Blog-data{
+
+    height: 713px;
+    display: grid;
+align-content: space-between;
+}
+.Blog-item{
+    width: 1240px;
+    height: 214.5px;
+    gap: 32px;
+   
+    display:flex;
+   
+    align-items: center;
+   
+}
+.Blog-pic img{
+    width: 286px;
+    height: 214.5px;
+    border-radius: 24px;
+}
+.Blog-content{
+    width: 710px;
+    height: 137px;
+    gap: 16px;
+}
+.Blog-content1{
+    width: 710px;
+    height: 27px;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 100%;
+   letter-spacing: 0%;
+   color: #CBCBCB;
+}
+.Blog-content2{
+    width: 684px;
+    height: 48px;
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 100%;
+   letter-spacing: 0%;
+   color: #FFFFFF;
+  margin-bottom:10px ;
+}
+.Blog-content3{
+    width: 137px;
+    height: 30px;
+  gap: 8px;
+  display:flex;
+}
+
+.Blog-content-btn1 {
+   
+    width: 62px;
+    height: 30px;
+   border-radius: 100px;
+    border: 1px solid #FFFFFF;
+    font-weight: 600px;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    background-color: transparent;
+   color: #FFFFFF;
+   
+}
+
+.Blog-btn{
+    width: 180px;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+}
+.Blog-btn button{
+    width: 103px;
+    height: 56px;
+    border-radius: 100px;
+    border: 1px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    background-color: white;
+    font-weight: 600;
+    font-size: 14px;
+}

@@ -1,0 +1,77 @@
+.Frequently-main{
+   
+    width: 1440px;
+    height: 481px;
+    padding: 64px 100px 64px 100px;
+    background-color: black;
+}
+.Frequently-inner{
+    width: 1240px;
+    height: 353px;
+    gap: 32px;
+    display: grid;
+
+    
+}
+.Frequently-under1{
+    width: 1240px;
+    height: 48px;
+    gap: 8px;
+    display: flex;
+}
+.Frequently-heading{
+    width: 640px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.Frequently-under2{
+
+     width: 1240px;
+    height: 129px;
+ gap: 8px;
+ display: flex;
+ flex-direction: column;
+ align-content: space-between;
+}
+.Frequently-contant1{
+
+     width: 444px;
+    height: 40px;
+ font-weight: 500;
+ font-size: 32px;
+ line-height: 40px;
+ letter-spacing: 0%;
+ color: #FFFFFF;
+}
+.Frequently-contant2{
+     width: 1240px;
+    height: 81px;
+ font-weight: 400;
+ font-size: 18px;
+ /* line-height: 100%; */
+ letter-spacing: 0%;
+ 
+ color: #CBCBCB;
+}
+.Frequently-under3{
+     width: 1240px;
+    height: 40px;
+ font-weight: 500;
+ font-size: 32px;
+ line-height: 40px;
+ letter-spacing: 0%;
+ color: #FFFFFF;
+}
+.Frequently-under4{
+     width: 810px;
+    height: 40px;
+ font-weight: 500;
+ font-size: 32px;
+ line-height: 40px;
+ letter-spacing: 0%;
+ color: #FFFFFF;
+}

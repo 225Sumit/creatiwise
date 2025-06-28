@@ -1,0 +1,152 @@
+.workmain{
+    width: 1440px;
+    height: 1751px;
+    padding: 64px 100px 64px 100px;
+    gap: 10px;
+    display:grid;
+    background-color: #010208;
+}
+.workmain2{
+    width: 1240px;
+    height: 1623px;
+   display:grid;
+    gap: 32px;
+}
+.workmain3{
+    width: 1240px;
+    height: 48px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+#workview{
+      width: 142px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+  
+}
+.work-view{
+    width: 63;
+    height: 22px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+    color: #FFFFFF;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-offset: 0px;
+    text-decoration-thickness: 1px;
+}
+.workmain4{
+      width: 1240px;
+    height: 1543px;
+    gap: 32px;
+  display:grid;
+}
+.workmain5{
+      width: 1240px;
+    height: 493px;
+    border-radius: 40px;
+    padding: 32px;
+    gap: 32px;
+    background-color: #CBCBCB7A;
+    display:grid;
+ 
+}
+.workmain6{
+      width: 1176px;
+    height: 429px;
+     gap: 32px;
+     display: flex;
+     /* border: 2px solid yellow; */
+}
+.pic-css img{
+width: 572px;
+    height: 429px;
+    border-radius: 24px;
+}
+.workcontent{
+width: 572px;
+    height: 429px;
+    position: relative;
+   /* display: flex;
+   justify-content: space-between; */
+}
+.workviewbtn{
+width: 184px;
+position: absolute;
+bottom: 5px;
+    height: 56px;
+    border-radius: 100px;
+    border: 1px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    display:grid;
+   /* display: flex;
+   justify-content: space-between; */
+   background-color: #FFFFFF;
+   
+}
+.worktext{
+    display:grid;
+    width: 572px;
+    height: 164px;
+    gap: 16px;
+}
+.work-heading{
+    width: 409px;
+    height: 48px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    display: block;
+}
+.work-para{
+    width: 572px;
+    height: 54px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    display: block;
+}
+.work-btn{
+    width: 166px;
+    height: 30px;
+    display:flex;
+    gap: 8px;
+    
+}
+.work-btn button{
+    width: 150px;
+    height: 30px;
+    border: 1px;
+    border-radius: 100px;
+
+    background-color: transparent;
+    outline: 1px solid #FFFFFF;
+    padding: 8px 24px 8px 24px ;
+    display:grid;
+    gap: 10px;
+    color: #FFFFFF;
+}
+.btnwork1{
+    width: 43px;
+    height: 14px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    border-color: #FFFFFF;
+    
+    
+}
